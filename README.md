@@ -22,10 +22,26 @@ Here are some ideas to get you started:
 #### Video Games 🎮, Minecraft especially Hypixel bedwars.
 
 
-## What can I do?
-####
+## What can I develop?
+#### Back-End Applications
+#### Front-End UIs
+#### Android Apps
+#### Arduino Machines
+#### Websites
+#### Minecraft Mods and Plugins
 
 ## 🔧My useful arsenal
+#### Java
+#### JavaScript
+#### C#
+#### Arduino
+#### Python
+#### SpringMVC
+#### ReactJS
+#### ReactNative
+#### ForgeMC
+#### PaperMC
+#### SpigotMC
 
 ## :pushpin:My Github Stats
 <p align=center><img src="https://github-readme-stats.vercel.app/api?username=vinesh27"/>

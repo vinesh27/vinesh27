@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ## Now, what are some of my hobbies? 
 #### Chess ♟️, I like playing chess and make my chess bot better
 #### Music 🎵, My favourite artists are KR$NA and Young Stunners.                          
-#### Video Games 🎮, Minecraft especially Hypixel bedwars.
 
 
 ## What can I develop?

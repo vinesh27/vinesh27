@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Hello Guys! My name is Vinesh. I'm a 16 y/o Indian programmer who just got into programming, Now I really love coding, and discussing coding slowly but surely developed a passion for programming and all related stuff. It was a journey I won't forget. The people I met on the way, the friendships made, lessons learned all this was a great adventure!
+#### Hello Guys! My name is Vinesh. I'm a 21 y/o Indian programmer who just got into programming, Now I really love coding, and discussing coding slowly but surely developed a passion for programming and all related stuff. It was a journey I won't forget. The people I met on the way, the friendships made, lessons learned all this was a great adventure!
 
 ## Now, what are some of my hobbies? 
 #### Chess ♟️, I like playing chess and make my chess bot better

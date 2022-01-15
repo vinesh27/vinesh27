@@ -14,34 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Hello Guys! My name is Vinesh. I'm a 21 y/o Indian programmer who just got into programming, Now I really love coding, and discussing coding slowly but surely developed a passion for programming and all related stuff. It was a journey I won't forget. The people I met on the way, the friendships made, lessons learned all this was a great adventure!
+#### Hello Guys! My name is Vinesh. I'm a Indian programmer who is progamming since he was 12, I personally like coding in Java but I can code in JavaScript, C# and Python too.
 
 ## Now, what are some of my hobbies? 
-#### Chess ♟️, I like playing chess and make my chess bot better
-#### Music 🎵, My favourite artists are KR$NA and Young Stunners.                          
+- Chess ♟️, I like playing chess and training my chess bot
+- Music 🎵, My favourite artists are KR$NA, Young Stunners, Eminem, KxngCrooked, and Royce Da 5'9.                          
 
 
 ## What can I develop?
-#### Back-End Applications
-#### Front-End UIs
-#### Android Apps
-#### Arduino Machines
-#### Websites
-#### Minecraft Mods and Plugins
+- Back-End Applications
+- Front-End UIs
+- Android Apps
+- Arduino Machines
+- Websites
+- Minecraft Mods and Plugins
+- Discord Bots
 
 ## 🔧My useful arsenal
-#### Java
-#### JavaScript
-#### C#
-#### Arduino
-#### Python
-#### SpringMVC
-#### ReactJS
-#### ReactNative
-#### ForgeMC
-#### PaperMC
-#### SpigotMC
+- Java
+- JavaScript
+- C#
+- Arduino
+- Python
+- SpringMVC
+- ReactJS
+- ReactNative
+- ForgeMC
+- PaperMC
+- SpigotMC
 
 ## :pushpin:My Github Stats
 <p align=center><img src="https://github-readme-stats.vercel.app/api?username=vinesh27"/>
 <p align=center><img src="https://github-readme-streak-stats.herokuapp.com/?user=vinesh27"></p>
+Woah, my stats suck

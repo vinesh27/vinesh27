@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Hello Guys! My name is Vinesh. I'm a Indian programmer who is progamming since he was 12, I personally like coding in Java but I can code in JavaScript, C# and Python too.
+#### Hello Guys! My name is Vinesh. Random coder #101.
 
 ## Now, what are some of my hobbies? 
 - Chess ♟️, I like playing chess and training my chess bot
@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - Back-End Applications
 - Front-End UIs
 - Android Apps
-- Arduino Machines
 - Websites
 - Minecraft Mods and Plugins
 - Discord Bots
@@ -34,14 +33,10 @@ Here are some ideas to get you started:
 - Java
 - JavaScript
 - C#
-- Arduino
 - Python
 - SpringMVC
 - ReactJS
 - ReactNative
-- ForgeMC
-- PaperMC
-- SpigotMC
 
 ## :pushpin:My Github Stats
 <p align=center><img src="https://github-readme-stats.vercel.app/api?username=vinesh27"/>

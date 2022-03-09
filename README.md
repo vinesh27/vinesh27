@@ -11,9 +11,7 @@ Google Dev | Java, Linux, Rap/Poetry
 *   🚀  I'm currently working on [Jiskord](http://www.github.com/vinesh27/Jiskord)
 *   🧠  I'm learning TypeScript & Rust
 *   🤝  I'm open to collaborating on Java Projects related to REST APIs | Discord Bots | Minecraft Plugins
-*   ⚡  I post stuff about Java and some other languages on my [twitter](https://twitter.com/vin1tCodes)<br><a href="https://www.twitter.com/vin1tCodes" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/twitter/follow/vin1tCodes?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"/></a><a href="https://www.github.com/vinesh27" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/vinesh27?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
+*   ⚡  I post stuff about Java and some other languages on my [twitter](https://twitter.com/vin1tCodes)<br>
 
 Skills
 --------------
@@ -22,6 +20,9 @@ Skills
 
 Socials
 --------------
+<a href="https://www.twitter.com/vin1tCodes" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/twitter/follow/vin1tCodes?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"/></a><a href="https://www.github.com/vinesh27" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/vinesh27?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
 <p align="left"><a href="https://discord.gg/vN1t#4632" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a><a href="https://www.github.com/vinesh27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://www.twitter.com/vin1tCodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://www.youtube.com/c/OnesnZeros" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 Badges

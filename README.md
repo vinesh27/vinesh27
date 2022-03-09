@@ -11,7 +11,7 @@ Google Dev | Java, Linux, Rap/Poetry
 *   🚀  I'm currently working on [Jiskord](http://www.github.com/vinesh27/Jiskord)
 *   🧠  I'm learning TypeScript & Rust
 *   🤝  I'm open to collaborating on Java Projects related to REST APIs | Discord Bots | Minecraft Plugins
-*   ⚡  I post stuff about Java and some other languages on my [twitter](https://twitter.com/vin1tCodes)<a href="https://www.twitter.com/vin1tCodes" target="_blank" rel="noreferrer">
+*   ⚡  I post stuff about Java and some other languages on my [twitter](https://twitter.com/vin1tCodes)<br><a href="https://www.twitter.com/vin1tCodes" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/twitter/follow/vin1tCodes?logo=twitter&style=for-the-badge&color=ef4444&labelColor=000000"/></a><a href="https://www.github.com/vinesh27" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/vinesh27?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
 

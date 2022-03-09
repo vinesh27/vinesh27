@@ -28,7 +28,6 @@ Socials
 Badges
 --------------
 
-<b>My GitHub Stats</b><br>
 <a href="http://www.github.com/vinesh27"><img src="https://github-readme-stats.vercel.app/api?username=vinesh27&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="vinesh27's GitHub stats" /></a><a
 href="http://www.github.com/vinesh27"><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=vinesh27&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a

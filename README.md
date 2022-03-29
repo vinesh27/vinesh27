@@ -8,10 +8,9 @@ Google Dev | Java, Linux | Rap/Poetry
 *   🌍  I'm based in Ahmedabad
 *   🖥️  See my portfolio at [vinesh27.github.io](http://www.vinesh27.github.io)
 *   ✉️  You can contact me at [vinitrajpurohit00@gmail.com](mailto:vinitrajpurohit00@gmail.com)
-*   🚀  I'm currently working on [Jiskord](http://www.github.com/vinesh27/Jiskord)
 *   🧠  I'm learning TypeScript & Rust
 *   🤝  I'm open to collaborating on Java Projects related to REST APIs | Discord Bots | Minecraft Plugins
-*   ⚡  I post stuff about Java and some other languages on my [twitter](https://twitter.com/vineshCodes)<br>
+*   ⚡  I post stuff about programming on my [twitter](https://twitter.com/vineshCodes)<br>
 
 Skills
 --------------

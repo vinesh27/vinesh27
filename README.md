@@ -5,7 +5,7 @@ Java Developer
 --------------
 
 Google Dev | Java, Linux | Rap/Poetry
-*   🌍  I'm based in Ahmedabad
+*   🌍  I'm based in India
 *   🖥️  See my portfolio at [vinesh27.github.io](http://www.vinesh27.github.io)
 *   ✉️  You can contact me at [vinitrajpurohit00@gmail.com](mailto:vinitrajpurohit00@gmail.com)
 *   🧠  I'm learning TypeScript & Rust

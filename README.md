@@ -10,7 +10,7 @@ Google Dev | Java, Linux | Rap/Poetry
 *   ✉️  You can contact me at [vinitrajpurohit00@gmail.com](mailto:vinitrajpurohit00@gmail.com)
 *   🧠  I'm learning TypeScript & Rust
 *   🤝  I'm open to collaborating on Java Projects related to REST APIs | Discord Bots | Minecraft Plugins
-*   ⚡  I post stuff about programming on my [twitter](https://twitter.com/vineshCodes)<br>
+*   ⚡  I post stuff about programming on my [twitter](https://twitter.com/vineshCodes) & [instagram](https://www.instagram.com/vineshcodes/)<br>
 
 Skills
 --------------

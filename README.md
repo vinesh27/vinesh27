@@ -34,4 +34,4 @@ href="http://www.github.com/vinesh27"><img src="https://activity-graph.herokuapp
 
 Support Me
 --------------
-<a href="https://www.buymeacoffee.com/vinesh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+[Buy Me A Coffee!](https://www.buymeacoffee.com/vinesh)

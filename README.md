@@ -41,9 +41,9 @@ Hey Everyone! I am Vinesh, a Full Stack Developer from India. I like working wit
    <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    <br>
-                    
-                # Socials
+<br>
+                 
+# Socials
                   
                   
 <p align="left">
@@ -55,7 +55,9 @@ Hey Everyone! I am Vinesh, a Full Stack Developer from India. I like working wit
    <a href="https://www.youtube.com/c/vineshcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
    <a href="https://www.twitch.tv/vineshcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 </p>
-### Badges<b>My GitHub Stats</b><a
+### Badges 
+<br>
+<b>My GitHub Stats</b><a
    href="http://www.github.com/vinesh27"><img src="https://github-readme-stats.vercel.app/api?username=vinesh27&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="vinesh27's GitHub stats" /></a><a
    href="http://www.github.com/vinesh27"><img
    src="https://github-readme-streak-stats.herokuapp.com/?user=vinesh27&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a

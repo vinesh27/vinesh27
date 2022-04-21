@@ -12,11 +12,15 @@ Hey Everyone! I am Vinesh, a Full Stack Developer from India. I like working wit
 *   🚀  I'm currently working on [a secret app which will release soon](http://twitter.com/vineshCodes)
 *   🧠  I'm learning Go
 *   🤝  I'm open to collaborating on projects related to REST APIs
-*   ⚡  I am a superhero (please dont tell anyone, I trust you)<a href="https://www.twitter.com/vineshCodes" target="_blank" rel="noreferrer"><img
+*   ⚡  I am a superhero (please dont tell anyone, I trust you)
+<br>
+<a href="https://www.twitter.com/vineshCodes" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/vineshCodes?logo=twitter&style=for-the-badge&color=10b981&labelColor=1c1917"
                 /></a><a href="https://www.github.com/vinesh27" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/vinesh27?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a><a href="https://www.twitch.tv/vineshcodes" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitch/status/vineshcodes?logo=twitchsx&style=for-the-badge&color=10b981&labelColor=1c1917&label=TWITCH+STATUS" /></a>### Skills<p align="left">
+                  src="https://img.shields.io/twitch/status/vineshcodes?logo=twitchsx&style=for-the-badge&color=10b981&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+                  ### Skills
+                  <p align="left">
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
@@ -37,7 +41,7 @@ Hey Everyone! I am Vinesh, a Full Stack Developer from India. I like working wit
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                     </p>
                     
-                  ### Socials
+                ### Socials
                   
                   
                 <p align="left">

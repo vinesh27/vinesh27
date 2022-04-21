@@ -20,7 +20,7 @@ Hey Everyone! I am Vinesh, a Full Stack Developer from India. I like working wit
    src="https://img.shields.io/github/followers/vinesh27?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a><a href="https://www.twitch.tv/vineshcodes" target="_blank" rel="noreferrer"><img
    src="https://img.shields.io/twitch/status/vineshcodes?logo=twitchsx&style=for-the-badge&color=10b981&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 <br>
-# Skills 
+### Skills 
 <p align="center">
    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -42,7 +42,7 @@ Hey Everyone! I am Vinesh, a Full Stack Developer from India. I like working wit
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 <br>              
-# Socials              
+### Socials              
 <p align="center">
    <a href="https://discord.com/users/547025590587359233" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
    <a href="https://www.github.com/vinesh27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
@@ -53,7 +53,7 @@ Hey Everyone! I am Vinesh, a Full Stack Developer from India. I like working wit
    <a href="https://www.twitch.tv/vineshcodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 </p>
 <br>
-# My GitHub Stats
+### My GitHub Stats
 <a href="http://www.github.com/vinesh27"><img src="https://github-readme-stats.vercel.app/api?username=vinesh27&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="vinesh27's GitHub stats" /></a><a
    href="http://www.github.com/vinesh27"><img
    src="https://github-readme-streak-stats.herokuapp.com/?user=vinesh27&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a

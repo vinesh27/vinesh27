@@ -43,9 +43,7 @@ Hey Everyone! I am Vinesh, a Full Stack Developer from India. I like working wit
 </p>
 <br>
                  
-# Socials
-                  
-                  
+# Socials              
 <p align="left">
    <a href="https://discord.com/users/547025590587359233" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
    <a href="https://www.github.com/vinesh27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
@@ -57,7 +55,6 @@ Hey Everyone! I am Vinesh, a Full Stack Developer from India. I like working wit
 </p>
 <br>
 # My GitHub Stats
-<br>
 <a href="http://www.github.com/vinesh27"><img src="https://github-readme-stats.vercel.app/api?username=vinesh27&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="vinesh27's GitHub stats" /></a><a
    href="http://www.github.com/vinesh27"><img
    src="https://github-readme-streak-stats.herokuapp.com/?user=vinesh27&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a

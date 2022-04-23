@@ -18,7 +18,7 @@ Hey Everyone! I am Vinesh, a Full Stack Developer from India. I like working wit
 src="https://img.shields.io/twitter/follow/vineshCodes?logo=twitter&style=for-the-badge&color=10b981&labelColor=1c1917"
 /></a><a href="https://www.github.com/vinesh27" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vinesh27?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a><a href="https://www.twitch.tv/vineshcodes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/vineshcodes?logo=twitchsx&style=for-the-badge&color=10b981&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+src="https://img.shields.io/twitch/status/vineshCodes?logo=twitchsx&style=for-the-badge&color=10b981&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
